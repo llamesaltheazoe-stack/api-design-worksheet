@@ -1,0 +1,1 @@
+{"eventId":"EVT-619681","eventType":"PAYMENT_COMPLETED","timestamp":"2026-10-10T15:39:05+02:00","data":{"paymentId":"PAY-37000","orderId":"ORD-9021","studentId":"STU-1042","amount":"5.00","currency":"USD","status":"completed","remainingBalance":"12.50"}}
